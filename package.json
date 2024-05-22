@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://dmitryberesten.github.io/filmoteka",
+  "homepage": "https://github.com/romulopahuyo/filmoteka-main-dmitry",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /filmoteka/"
+    "build": "parcel build src/*.html --public-url /filmoteka-main-dmitry/"
   },
   "repository": {
     "type": "git",
